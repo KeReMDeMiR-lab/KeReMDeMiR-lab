@@ -4,8 +4,6 @@
 
 - 🔭 I'm currently working on **writing an interpreter in go**
 
-- 🌱 I'm currently learning **Go and TypeScript**
-
 - 📫 How to reach me **keremdemir120943@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
