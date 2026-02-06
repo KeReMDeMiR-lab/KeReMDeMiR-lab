@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[LinkedIn](https://scrimba.com) • [Scrimba](https://scrimba.com/@KeReMDeMiR-lab) • 
+[LinkedIn](https://scrimba.com) • [Scrimba](https://scrimba.com/@KeReMDeMiR-lab) 
 
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u42e4656)
 <!-- <h3 align="left">Languages and Tools:</h3>
